@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ---
 - 📫 How to reach me : 
     > auckyrh@gmail.com
-    > linkedin.com/in/aucky
-    > instagram.com/fxaucky
+    > https://www.linkedin.com/in/aucky
+    > https://www.instagram.com/fxaucky
 
 <!---
 fxaucky/fxaucky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
