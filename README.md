@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fxaucky
+- 👋 Hi, I’m @auckyrh
 - 👀 I’m interested in Technology, Mobile App Development, Design, AI
 - 🌱 I’m currently learning Swift at Apple Developer Academy
 - 💞️ I’m looking to collaborate on ---
