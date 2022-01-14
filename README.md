@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @auckyrh
-- 👀 I’m interested in Technology, Mobile App Development, Design, AI
+- 👀 I’m interested in Information Technology, Mobile App Development, Software Development and Design
 - 🌱 I’m currently learning Swift at Apple Developer Academy
 - 💞️ I’m looking to collaborate on ---
 - 📫 How to reach me : auckyrh@gmail.com ..... https://www.linkedin.com/in/aucky ..... https://www.instagram.com/auckyrh
