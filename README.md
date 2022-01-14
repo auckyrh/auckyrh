@@ -5,6 +5,6 @@
 - 📫 How to reach me : auckyrh@gmail.com ..... https://www.linkedin.com/in/aucky ..... https://www.instagram.com/auckyrh
 
 <!---
-fxaucky/fxaucky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+auckyrh/auckyrh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
