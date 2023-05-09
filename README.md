@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @auckyrh
 - 👀 I’m interested in Information Technology, Mobile App Development, Software Development and Design
-- 🌱 I’m currently learning Swift at Apple Developer Academy
+- 🌱 I’m currently working as Software Engineer/Web App Developer at PT. Seger Agro Nusantara
 - 💞️ I’m looking to collaborate on ---
 - 📫 How to reach me : auckyrh@gmail.com ..... https://www.linkedin.com/in/aucky ..... https://www.instagram.com/auckyrh
 
