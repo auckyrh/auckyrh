@@ -40,10 +40,6 @@ ML model comparing Linear Regression, Random Forest, and Decision Tree for prope
 ### 🏢 [Next Level Properti](https://github.com/swrhythm/wpi-project)
 Full-stack property management system built with Laravel and PostgreSQL. Live at [nextlevelproperti.com](https://nextlevelproperti.com)
 
-## 📈 GitHub Stats
-
-![Aucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=auckyrh&show_icons=true&theme=default)
-
 ## 🎯 Current Focus
 
 - Preparing portfolio for Apple Developer Institute for AIML @ UC Surabaya (Cohort 2026)
