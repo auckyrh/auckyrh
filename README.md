@@ -38,7 +38,9 @@ iOS app using Core ML to identify 38 plant diseases with 94% accuracy. Built wit
 ML model comparing Linear Regression, Random Forest, and Decision Tree for property price prediction in East Java. Achieved 93.48% accuracy with Random Forest.
 
 ### 🏢 [Next Level Properti](https://github.com/swrhythm/wpi-project)
-Full-stack property management system built with Laravel and PostgreSQL. Live at [nextlevelproperti.com](https://nextlevelproperti.com) (still on development. some features are already in production, some features are still on development and to be developed)
+
+🏢 [Next Level Properti](https://github.com/swrhythm/wpi-project)
+Full-stack property management system built with Laravel and PostgreSQL. Currently in active development with core features live in production at [nextlevelproperti.com](https://nextlevelproperti.com). Development web at [https://dev.nextlevelproperti.com]. Managing property listings, agent management, internal workflows, voucher packages, commissions system and transaction tracking.
 
 ## 🎯 Current Focus
 
