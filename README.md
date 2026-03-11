@@ -1,6 +1,6 @@
 # Hi there, I'm Aucky Riman Halim 👋
 
-Full Stack Web Developer expanding into AI/ML | Apple Developer Academy Alumni (2021) | Currently applying for Apple Developer Institute for AIML @ UC Surabaya (Cohort 2026)
+Full Stack Web Developer expanding into AI/ML | Apple Developer Academy Alumni
 
 ## 🚀 About Me
 
