@@ -1,6 +1,6 @@
 # Hi there, I'm Aucky Riman Halim 👋
 
-Full Stack Web Developer expanding into AI/ML | Apple Developer Academy Alumni
+Full Stack Web Developer
 
 ## 🚀 About Me
 
@@ -44,7 +44,7 @@ Full-stack property management system built with Laravel and PostgreSQL. Current
 
 ## 🎯 Current Focus
 
-- Preparing portfolio for Apple Developer Institute for AIML @ UC Surabaya (Cohort 2026)
+- Preparing portfolio for Apple Developer Institute for AIML @ UC Surabaya 
 - Building AI-powered features for property technology applications
 - Exploring machine learning model deployment and optimization
 
